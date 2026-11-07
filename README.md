@@ -9,4 +9,5 @@ ZToken聚合全球AI大模型，官方合规渠道，拒绝掺水，在保障绝
 常用链接导航：     
 1、ZToken官网：https://ztoken.pro     
 2、ZToken大模型API开放平台：https://platform.ztoken.pro     
-3、官方文档地址：https://doc.ztoken.pro    
+3、官方文档地址：https://doc.ztoken.pro  
+4、分销代理-推广合伙人计划说明: https://doc.ztoken.pro/9298644m0
