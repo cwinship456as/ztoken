@@ -1,4 +1,4 @@
-# ztoken - Same Model.Lower Cost.稳定省钱的大模型API接口
+# ztoken-Same Model.Lower Cost.稳定省钱的大模型API接口
 ZToken Pro, Same Model. Lower Cost.  稳定省钱的大模型API接口服务平台      
 A stable and cost-effective LLM API platform.      
 ZToken aggregates global AI models through official compliant channels.      
