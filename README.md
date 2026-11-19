@@ -13,7 +13,7 @@ ZToken聚合全球AI大模型，官方合规渠道，拒绝掺水，在保障绝
 4、分销代理-推广合伙人赚钱计划说明: https://doc.ztoken.pro/9298644m0     
 5、联系我们: https://doc.ztoken.pro/9047410m0    
 
-使用示例:
+使用示例:     
 '''
 from openai import OpenAI
 
