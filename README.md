@@ -12,3 +12,27 @@ ZToken聚合全球AI大模型，官方合规渠道，拒绝掺水，在保障绝
 3、官方文档地址：https://doc.ztoken.pro   
 4、分销代理-推广合伙人赚钱计划说明: https://doc.ztoken.pro/9298644m0     
 5、联系我们: https://doc.ztoken.pro/9047410m0    
+
+使用示例:
+'''
+from openai import OpenAI
+
+if __name__ == '__main__':
+    client = OpenAI(
+        # openai系列的sdk，包括langchain，都需要这个/v1的后缀
+        base_url='https://api.ztoken.pro/v1',
+        api_key='sk-xxxxxxxxxxxxxxxx',
+    )
+
+    resp = client.chat.completions.create(
+        messages=[
+            {
+                "role": "user",
+                "content": "Hello!",
+            }
+        ],
+        model="gpt-4o-mini", # 如果是其他兼容模型，比如deepseek，直接这里改模型名即可，其他都不用动
+    )
+
+    print(resp)
+'''
